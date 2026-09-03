@@ -1,0 +1,6 @@
+Bio|Cells|Mon|45.0
+Chem|Bonds|Tuesday|45.0
+Maths|Integration|Wednesday|50.0
+ICT|Programing|Thursday|45.0
+Bio|Tissue|Friday|45.0
+bio|locomotion|Wednesday|45.0
